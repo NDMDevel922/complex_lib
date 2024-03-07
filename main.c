@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello world!!\n");
-    printf("Hello user!!\n");
+    printf("Hello world modified in origin/master!!\n");
+    printf("Hello user from master!!\n");
     return 0;
 }
